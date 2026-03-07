@@ -1,0 +1,6 @@
+Juan Perez,juanperez@gmail.com,pendiente
+Maria Lopez,maria@gmail.com,pagado
+Carlos Ruiz,carlosruiz@gmail.com,pendiente
+Ana Gomez,anagomez@gmail.com,pagado
+Roberto García,3008431000101@ingenieria.usac.edu.gt,quebrado
+Jesus Lopez, ejemplo@gmail.com,pagado,feliz

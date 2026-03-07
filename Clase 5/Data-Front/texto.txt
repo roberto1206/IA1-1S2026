@@ -1,0 +1,6 @@
+Arroz|Granos|2|8.50
+Leche|Lácteos|3|7.25
+Pan|Panadería|4|3.00
+Huevos|Abarrotes|1|18.00
+Aceite|Abarrotes|2|15.50
+AceiteDeMoto|Abarrotes|2|15.50|8500

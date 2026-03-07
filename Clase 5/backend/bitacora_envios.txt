@@ -1,0 +1,9 @@
+[2026-03-06 19:55:09.600005] ---Iniicio de ejecucion del robot---
+[2026-03-06 19:55:11.966693] Correo enviado correctamente a Juan Perez <juanperez@gmail.com>
+[2026-03-06 19:55:11.967257] No se envio correo Maria Lopez porque el estado es pagado
+[2026-03-06 19:55:15.057752] Correo enviado correctamente a Carlos Ruiz <carlosruiz@gmail.com>
+[2026-03-06 19:55:15.058059] No se envio correo Ana Gomez porque el estado es pagado
+[2026-03-06 19:55:16.567065] Correo enviado correctamente a Roberto García <3008431000101@ingenieria.usac.edu.gt>, quebrado
+[2026-03-06 19:55:16.567458] Linea 6 invalida, formato incorrecto
+[2026-03-06 19:55:16.567811] ---Fin del Robot---
+[2026-03-06 19:55:16.568045] Resumen, | enviados: 3 | ignorados: 2 | errores con el formato: 1
